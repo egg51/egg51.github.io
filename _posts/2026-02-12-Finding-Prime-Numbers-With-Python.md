@@ -172,7 +172,7 @@ def primes_finder(n):
     print(f"There are {prime_count} prime numbers between 1 and {n}, the largest of which is {largest_prime}")
 ```
 
-Now we can jut pass the function the upper bound of our search and it will do the rest!
+Now we can just pass the function the upper bound of our search and it will do the rest!
 
 Let's go for something large, say a million...
 
